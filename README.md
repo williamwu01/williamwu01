@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Certification in Front-End Web development<br>👯 I’m looking to collaborate on any projects <br>🤝 I’m looking for help with expanding my understanding with Front-End Web development <br>💬 Ask me about my previous projects and i will gladly share my knowledge<br>⚡ Fun fact I love to lift weights 
+🔭 I’m currently working on my Certification in Front-End Web development ['Graduation date May 10 2024']<br>👯 I’m looking to collaborate on any projects <br>🤝 I’m looking for help with expanding my understanding with Front-End Web development <br>💬 Ask me about my previous projects and i will gladly share my knowledge<br>⚡ Fun fact I love to lift weights 
 
 
 ## 🌐 Socials:
